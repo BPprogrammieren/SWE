@@ -1,1 +1,13 @@
-HI!
+1.
+10 Advantages of an IDE:
+- Build and Run tools: compiling the source code according to their programing languages, test runs
+- Debugger: setting breakpoints to check line by line, value of the variables
+- Real-time error highlight: underline the mistakes
+- Suggesting the completion in coding syntax, logical statements
+- Files management: including workspace, so that the user can track down all the file in the project
+- Search and Support: easy to check or move to the definition, reference of a term in sourcecode
+- Plugin and Extension are helping the coding process easier
+- Live Collaboration with other people to edit the code
+- Cloud integration: run code inside Docker containers or deploy directly to cloud services
+- AI Assistance to help the process of generation of project easier
+
