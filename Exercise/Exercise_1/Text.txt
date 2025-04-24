@@ -11,3 +11,28 @@
 - Cloud integration: run code inside Docker containers or deploy directly to cloud services
 - AI Assistance to help the process of generation of project easier
 
+6.
+Software Design ist more relate to explain the How question: how to fulfill the requirements
+in analysis step. SD also decide the structure, architecture of the system ( including the components,
+data flow).
+More focusing on the quality factors: scalability, maintain, performance
+
+Difference:
+Analysis defines the requirements of the software, service.
+in the early stage of the process
+
+7.
+SD provides the backbone of the whole software:
+define the architecture, make sure all the requirements are met, control the development of the process
+reduce the risk before launching the software in developing stage,
+reduce the redundant cost and maintain cost.
+
+Consequences:
+- Make the code unable to read and hard to follow
+- redundant function, class, relation
+- impossible to solve the error because there will be domino effect if we change a small detail
+when we dont know clearly the relationship between them.
+
+8.
+these 4 activities are interdependent.
+
