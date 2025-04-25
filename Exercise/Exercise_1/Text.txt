@@ -17,6 +17,13 @@ in analysis step. SD also decide the structure, architecture of the system ( inc
 data flow).
 More focusing on the quality factors: scalability, maintain, performance
 
+solving the use cases, requirements
+use case: who is gonna profit from our application? for whom is this application
+
+->> which programing language, architechture, design choice(cloud or local)
+concert implementation?
+
+
 Difference:
 Analysis defines the requirements of the software, service.
 in the early stage of the process

@@ -1,0 +1,11 @@
+1.
+Saas: Software as a Service is one of the cloud-based software delivery model,
+which is accessed online via subscription.
+
+personio.com:
+- provide Platform of management in the HR Field
+- offering the tools to track working time and also absent or sick leave
+- analysis the performance and provide the workflow automation
+
+? Client-Server architechture
+
