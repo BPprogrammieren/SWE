@@ -39,7 +39,7 @@ Consequences:
 - redundant function, class, relation
 - impossible to solve the error because there will be domino effect if we change a small detail
 when we dont know clearly the relationship between them.
-
+- easy to get lost when more and more code is added
 8.
 these 4 activities are interdependent.
 
